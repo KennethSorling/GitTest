@@ -12,7 +12,7 @@ namespace GitTest
         {
             Console.WriteLine("First hello once more");
             Console.WriteLine("Hello  Again");
-            Console.WriteLine("This is so far an unstaged change");
+            Console.WriteLine("Quick bugfix");
         }
     }
 }
